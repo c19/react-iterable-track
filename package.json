@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/c19/react-iterable-track.git"
+    "url": "git+https://github.com/xanthous-tech/react-iterable-track.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/c19/react-iterable-track/issues"
+    "url": "https://github.com/xanthous-tech/react-iterable-track/issues"
   },
-  "homepage": "https://github.com/c19/react-iterable-track",
+  "homepage": "https://github.com/xanthous-tech/react-iterable-track",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "6.7.7",
